@@ -5,16 +5,16 @@ class CoffeeMachine:
     cups_state = 0
     money_state = 0
     power = True
-    # Espresso Gradients
+    # Espresso Ingredient
     espresso_water = 250
     espresso_beans = 16
     espresso_price = 4
-    # Latte Gradients
+    # Latte Ingredient
     latte_water = 350
     latte_milk = 75
     latte_beans = 20
     latte_price = 7
-    # Cappuccino Gradients
+    # Cappuccino Ingredient
     cappuccino_water = 200
     cappuccino_milk = 100
     cappuccino_beans = 12
